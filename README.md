@@ -1,6 +1,6 @@
 # EcoTech Home Energy Audit Website
 
-![EcoTech Home Energy Audit](./images/website-screenshot.png)
+[EcoTech Home Energy Audit](./images/website-screenshot.png)
 
 Welcome to the EcoTech Home Energy Audit website repository! This repository contains the source code for the EcoTech website, which allows users to learn about EcoTech's services, benefits, and features and book an energy audit.
 
