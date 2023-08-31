@@ -1,6 +1,6 @@
 # EcoTech Home Energy Audit Website
 
-[EcoTech Home Energy Audit Website](https://boss-eyed-drug.000webhostapp.com/)
+[Visit the Website](https://boss-eyed-drug.000webhostapp.com/)
 
 Welcome to the EcoTech Home Energy Audit website repository! This repository contains the source code for the EcoTech website, which allows users to learn about EcoTech's services, benefits, and features and book an energy audit.
 
